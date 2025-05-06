@@ -14,7 +14,7 @@ All the course created ROS packages and programming assignments are included.
 - Week 3: Autonomous Navigation:
   - Using gmapping package to create a virtual map of the environment and navigate turtlebot in simulation
 - Week 4: Manipulation:
-  - Getting familiar with [moveit](https://moveit.ros.org/) and manipulation system
+  - Getting familiar with [MoveIt!](https://moveit.ros.org/) and manipulation system
 - Week 5: Robot Vision:
   - Play with logistical camera and `/tf` rostopic
 - Week 6: Final Project:
