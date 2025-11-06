@@ -1,1 +1,0 @@
-/home/mark/hrwros_ws/devel/.private/hrwros_week5_assignment/lib/pkgconfig/hrwros_week5_assignment.pc

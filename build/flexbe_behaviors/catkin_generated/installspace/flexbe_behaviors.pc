@@ -1,8 +1,0 @@
-prefix=/home/mark/hrwros_ws/install
-
-Name: flexbe_behaviors
-Description: Description of flexbe_behaviors
-Version: 1.0.0
-Cflags: 
-Libs: -L${prefix}/lib -lflexbe_behaviors
-Requires: 

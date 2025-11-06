@@ -1,1 +1,0 @@
-/home/mark/hrwros_ws/devel/.private/hrwros_week4_assignment/share/hrwros_week4_assignment/cmake/hrwros_week4_assignmentConfig.cmake

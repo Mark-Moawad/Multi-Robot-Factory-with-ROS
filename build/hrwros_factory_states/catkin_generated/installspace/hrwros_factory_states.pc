@@ -1,8 +1,0 @@
-prefix=/home/mark/hrwros_ws/install
-
-Name: hrwros_factory_states
-Description: Description of hrwros_factory_states
-Version: 1.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib -lhrwros_factory_states
-Requires: 

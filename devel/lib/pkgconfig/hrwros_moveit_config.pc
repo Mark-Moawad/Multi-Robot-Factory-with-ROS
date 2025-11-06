@@ -1,1 +1,0 @@
-/home/mark/hrwros_ws/devel/.private/hrwros_moveit_config/lib/pkgconfig/hrwros_moveit_config.pc

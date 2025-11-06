@@ -1,8 +1,0 @@
-prefix=/home/mark/hrwros_ws/install
-
-Name: hrwros_week4_assignment
-Description: Description of hrwros_week4_assignment
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

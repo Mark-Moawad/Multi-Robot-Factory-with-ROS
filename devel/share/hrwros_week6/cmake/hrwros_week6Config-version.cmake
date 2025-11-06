@@ -1,1 +1,0 @@
-/home/mark/hrwros_ws/devel/.private/hrwros_week6/share/hrwros_week6/cmake/hrwros_week6Config-version.cmake

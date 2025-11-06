@@ -1,8 +1,0 @@
-prefix=/home/mark/hrwros_ws/devel/.private/hrwros_week1_assignment
-
-Name: hrwros_week1_assignment
-Description: Description of hrwros_week1_assignment
-Version: 0.0.0
-Cflags: -I/home/mark/hrwros_ws/devel/.private/hrwros_week1_assignment/include
-Libs: -L${prefix}/lib 
-Requires: 

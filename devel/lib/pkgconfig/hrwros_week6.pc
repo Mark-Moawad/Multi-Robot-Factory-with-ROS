@@ -1,1 +1,0 @@
-/home/mark/hrwros_ws/devel/.private/hrwros_week6/lib/pkgconfig/hrwros_week6.pc

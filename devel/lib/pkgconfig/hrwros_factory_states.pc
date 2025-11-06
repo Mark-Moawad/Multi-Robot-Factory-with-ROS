@@ -1,1 +1,0 @@
-/home/mark/hrwros_ws/devel/.private/hrwros_factory_states/lib/pkgconfig/hrwros_factory_states.pc
